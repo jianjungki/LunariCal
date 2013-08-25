@@ -4,7 +4,7 @@ LunariCal
 This is a Lunar tools writen by php, if you like it, please tell what i can do better.
 
 ###Usage:
------------------------------------Lunar iCal(can add lunar event on google by ical)---------------------------------------------------------------
+-----------------------------------Lunar iCal(can add lunar event on google by ical)------------------------------------
 ``` php
 $lunarsdas = new Lunar();
 $nowYear = 2014;
